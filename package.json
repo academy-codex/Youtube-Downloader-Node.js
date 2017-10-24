@@ -15,5 +15,8 @@
     "serve-favicon": "~2.4.5",
     "yargs": "^9.0.1",
     "ytdl-core": "^0.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0"
   }
 }
